@@ -1,0 +1,1 @@
+bu sürümde bir önceki sürümdeki hatalar ve kullanıcı açıkları kapatılmıştır

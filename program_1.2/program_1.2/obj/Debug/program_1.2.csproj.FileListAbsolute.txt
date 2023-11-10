@@ -1,0 +1,14 @@
+C:\Users\burha\OneDrive - Dokuz Eylül Üniversitesi\the_game\burhan\program_1.2\program_1.2\bin\Debug\program_1.2.exe.config
+C:\Users\burha\OneDrive - Dokuz Eylül Üniversitesi\the_game\burhan\program_1.2\program_1.2\bin\Debug\program_1.2.exe
+C:\Users\burha\OneDrive - Dokuz Eylül Üniversitesi\the_game\burhan\program_1.2\program_1.2\bin\Debug\program_1.2.pdb
+C:\Users\burha\OneDrive - Dokuz Eylül Üniversitesi\the_game\burhan\program_1.2\program_1.2\obj\Debug\program_1.2.csproj.AssemblyReference.cache
+C:\Users\burha\OneDrive - Dokuz Eylül Üniversitesi\the_game\burhan\program_1.2\program_1.2\obj\Debug\program_1.2.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive - Dokuz Eylül Üniversitesi\the_game\burhan\program_1.2\program_1.2\obj\Debug\program_1.2.exe
+C:\Users\burha\OneDrive - Dokuz Eylül Üniversitesi\the_game\burhan\program_1.2\program_1.2\obj\Debug\program_1.2.pdb
+C:\Users\Lenovo\Dokuz Eylül Üniversitesi\Burhan Köylü - the_game\burhan\program_1.2\program_1.2\bin\Debug\program_1.2.exe.config
+C:\Users\Lenovo\Dokuz Eylül Üniversitesi\Burhan Köylü - the_game\burhan\program_1.2\program_1.2\bin\Debug\program_1.2.exe
+C:\Users\Lenovo\Dokuz Eylül Üniversitesi\Burhan Köylü - the_game\burhan\program_1.2\program_1.2\bin\Debug\program_1.2.pdb
+C:\Users\Lenovo\Dokuz Eylül Üniversitesi\Burhan Köylü - the_game\burhan\program_1.2\program_1.2\obj\Debug\program_1.2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Dokuz Eylül Üniversitesi\Burhan Köylü - the_game\burhan\program_1.2\program_1.2\obj\Debug\program_1.2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Dokuz Eylül Üniversitesi\Burhan Köylü - the_game\burhan\program_1.2\program_1.2\obj\Debug\program_1.2.exe
+C:\Users\Lenovo\Dokuz Eylül Üniversitesi\Burhan Köylü - the_game\burhan\program_1.2\program_1.2\obj\Debug\program_1.2.pdb

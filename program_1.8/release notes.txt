@@ -1,0 +1,1 @@
+bu sürümde hatalı girişlerin büyük bir çoğunluğunu engelledik fakat int16 değerinin belirli bir depolama sınırı olduğundan int16'nın taşıdığından daha büyük değerlerde hata veriyor. sürümün devamında kullanıcı girdisi sınırlandırılabilir

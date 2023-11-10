@@ -1,0 +1,2 @@
+bu sürümde bilgisayarın hamle yapması süre alıyor (1,5s ile 4,5s arası)
+ayrıca üst notasyon satırını 1-2-3'den 4-5-6'ya güncelledik

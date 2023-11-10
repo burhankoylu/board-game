@@ -1,0 +1,1 @@
+rasgele tablo oluşturulan, computer ai'ın rasgele hamle yaptığı tek turluk bir sürüm. bu sürümde ilk başta gelen sıralı üçlüler okunamıyor

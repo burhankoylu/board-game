@@ -1,0 +1,21 @@
+C:/Users/burha/OneDrive - Dokuz Eylül Üniversitesi/the_game/burhan/program_1.3/program_1.3/bin/Debug/program_1.3.exe.config
+C:/Users/burha/OneDrive - Dokuz Eylül Üniversitesi/the_game/burhan/program_1.3/program_1.3/bin/Debug/program_1.3.exe
+C:/Users/burha/OneDrive - Dokuz Eylül Üniversitesi/the_game/burhan/program_1.3/program_1.3/bin/Debug/program_1.3.pdb
+C:/Users/burha/OneDrive - Dokuz Eylül Üniversitesi/the_game/burhan/program_1.3/program_1.3/obj/Debug/program_1.3.csproj.AssemblyReference.cache
+C:/Users/burha/OneDrive - Dokuz Eylül Üniversitesi/the_game/burhan/program_1.3/program_1.3/obj/Debug/program_1.3.csproj.CoreCompileInputs.cache
+C:/Users/burha/OneDrive - Dokuz Eylül Üniversitesi/the_game/burhan/program_1.3/program_1.3/obj/Debug/program_1.3.exe
+C:/Users/burha/OneDrive - Dokuz Eylül Üniversitesi/the_game/burhan/program_1.3/program_1.3/obj/Debug/program_1.3.pdb
+C:/Users/Lenovo/Dokuz Eylül Üniversitesi/Burhan Köylü - the_game/burhan/program_1.3/program_1.3/bin/Debug/program_1.3.exe.config
+C:/Users/Lenovo/Dokuz Eylül Üniversitesi/Burhan Köylü - the_game/burhan/program_1.3/program_1.3/bin/Debug/program_1.3.exe
+C:/Users/Lenovo/Dokuz Eylül Üniversitesi/Burhan Köylü - the_game/burhan/program_1.3/program_1.3/bin/Debug/program_1.3.pdb
+C:/Users/Lenovo/Dokuz Eylül Üniversitesi/Burhan Köylü - the_game/burhan/program_1.3/program_1.3/obj/Debug/program_1.3.csproj.AssemblyReference.cache
+C:/Users/Lenovo/Dokuz Eylül Üniversitesi/Burhan Köylü - the_game/burhan/program_1.3/program_1.3/obj/Debug/program_1.3.csproj.CoreCompileInputs.cache
+C:/Users/Lenovo/Dokuz Eylül Üniversitesi/Burhan Köylü - the_game/burhan/program_1.3/program_1.3/obj/Debug/program_1.3.exe
+C:/Users/Lenovo/Dokuz Eylül Üniversitesi/Burhan Köylü - the_game/burhan/program_1.3/program_1.3/obj/Debug/program_1.3.pdb
+/Users/zehraaleskerova/Library/CloudStorage/OneDrive-DokuzEylülÜniversitesi/the_game/burhan/program_1.3/program_1.3/bin/Debug/program_1.3.exe.config
+/Users/zehraaleskerova/Library/CloudStorage/OneDrive-DokuzEylülÜniversitesi/the_game/burhan/program_1.3/program_1.3/bin/Debug/program_1.3.exe
+/Users/zehraaleskerova/Library/CloudStorage/OneDrive-DokuzEylülÜniversitesi/the_game/burhan/program_1.3/program_1.3/bin/Debug/program_1.3.pdb
+/Users/zehraaleskerova/Library/CloudStorage/OneDrive-DokuzEylülÜniversitesi/the_game/burhan/program_1.3/program_1.3/obj/Debug/program_1.3.csproj.AssemblyReference.cache
+/Users/zehraaleskerova/Library/CloudStorage/OneDrive-DokuzEylülÜniversitesi/the_game/burhan/program_1.3/program_1.3/obj/Debug/program_1.3.csproj.CoreCompileInputs.cache
+/Users/zehraaleskerova/Library/CloudStorage/OneDrive-DokuzEylülÜniversitesi/the_game/burhan/program_1.3/program_1.3/obj/Debug/program_1.3.exe
+/Users/zehraaleskerova/Library/CloudStorage/OneDrive-DokuzEylülÜniversitesi/the_game/burhan/program_1.3/program_1.3/obj/Debug/program_1.3.pdb

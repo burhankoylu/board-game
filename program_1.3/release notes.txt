@@ -1,0 +1,1 @@
+bu sürüm 5 turluk ve her turda rasgele tahta oluşturulan sorunsuz ve oynanabilir ilk sürüm. fakat hala computer ai rasgele hamle yapıyor

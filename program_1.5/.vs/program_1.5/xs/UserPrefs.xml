@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{60F43015-CCBD-43BC-956A-2FF1BE0D3AEE}|Default">
+  <MonoDevelop.Ide.ItemProperties.program__1.5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../halil/ConsoleApp3/ConsoleApp3/Program.cs">
+    <Files>
+      <File FileName="../../halil/ConsoleApp3/ConsoleApp3/Program.cs" Line="1" Column="1" />
+      <File FileName="program_1.5/Program.cs" />
+      <File FileName="../../../../../../Projects/algoritmaaa/algoritmaaa/Program.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
